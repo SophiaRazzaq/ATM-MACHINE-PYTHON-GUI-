@@ -1,8 +1,6 @@
 # ATM-MACHINE-PYTHON-GUI-
 
-I utilized tkinter graphics to make my program more visually appealing. 
-
-
+ (tkinter graphics)
 Initially, a welcome screen will appear, and as I was coding, 
 I incorporated a database with an ID of "ibrahim," a password of "7898," and an amount of 50,000. 
 To run the program, simply enter this input.
